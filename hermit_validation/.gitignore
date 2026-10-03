@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.hermit_tmp/
+
+# Temporary outputs from local HermiT smoke tests.
+results/hermit-smoke-*/
+
+# Excel lock files.
+~$*.xlsx
